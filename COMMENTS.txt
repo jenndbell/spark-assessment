@@ -1,0 +1,7 @@
+Running Spark Work Sample: 
+
+1. Clone repo locally 
+2. run "npm install" to install required packages 
+3. run "node index.js" to run script and generate answer CSV file 
+3a. The answer CSV file can be found in the "slcsp" folder under the output "slcsp_complete.csv"
+3b. As the "slcsp.csv" file is read row by row, the corresponding SLCP to each zip will be console logged in CSV format
